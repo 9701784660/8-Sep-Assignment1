@@ -1,0 +1,11 @@
+D:\phase4\8-9\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+D:\phase4\8-9\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+D:\phase4\8-9\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+D:\phase4\8-9\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
